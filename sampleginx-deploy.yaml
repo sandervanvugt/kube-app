@@ -5,6 +5,8 @@ metadata:
   labels:
     app: sampleginx
   name: sampleginx
+  annotations:
+    state: updated
 spec:
   replicas: 1
   selector:
