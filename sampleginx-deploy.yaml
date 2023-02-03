@@ -9,7 +9,7 @@ metadata:
     state: testing
     flux: fluxing
 spec:
-  replicas: 2
+  replicas: 4
   selector:
     matchLabels:
       app: sampleginx
