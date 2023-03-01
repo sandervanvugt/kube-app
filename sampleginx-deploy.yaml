@@ -7,8 +7,6 @@ metadata:
   name: sampleginx
   annotations:
     state: testing
-    flux: fluxing
-    friday: yes
 spec:
   replicas: 2
   selector:
