@@ -8,8 +8,9 @@ metadata:
   annotations:
     state: testing
     day: friday
+    today: thursday
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: sampleginx
