@@ -9,6 +9,7 @@ metadata:
     state: testing
     day: friday
     today: thursday
+    almost: done
 spec:
   replicas: 3
   selector:
