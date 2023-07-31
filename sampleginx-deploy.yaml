@@ -10,6 +10,7 @@ metadata:
     day: friday
     today: thursday
     almost: done
+    weather: rainy
 spec:
   replicas: 3
   selector:
